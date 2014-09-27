@@ -1,7 +1,7 @@
 XamarinFormsCameraPreview
 =========================
 
-An sample application of dealing camera with Xamarin.Forms.
+A sample application of dealing camera with Xamarin.Forms.
 
 
 See also
